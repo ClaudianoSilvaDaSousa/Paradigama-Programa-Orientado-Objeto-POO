@@ -27,6 +27,6 @@ Certifique-se de ter o Python 3.x instalado.
 Clone o repositório ou copie o código para um arquivo .py.
 
 Execute o script:
-![alt text](image.png)
-
 <img width="1094" height="763" alt="image" src="https://github.com/user-attachments/assets/3aa5c40d-376d-410f-8a6e-f83cac80b923" />
+
+![alt text](image.png)
